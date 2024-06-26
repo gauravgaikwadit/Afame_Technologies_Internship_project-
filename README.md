@@ -52,31 +52,38 @@ ________________________________________________________________________________
  Optimization Suggestions
 
   Identify High-Impact Advertising Channels: 
-    Allocate more budget to channels with the highest positive impact on sales.
+   - Allocate more budget to channels with the highest positive impact on sales.
   Optimize Advertising Budget:
-    Use the prediction model to simulate different scenarios and find the optimal combination of expenditures.
+   - Use the prediction model to simulate different scenarios and find the optimal combination of expenditures.
   Targeted Marketing Campaigns: 
-   Develop targeted marketing campaigns to reach the most responsive customer segments.
+   - Develop targeted marketing campaigns to reach the most responsive customer segments.
   Regular Performance Monitoring:
-    Continuously monitor and adjust strategies based on real-time data and predictions.
+   - Continuously monitor and adjust strategies based on real-time data and predictions.
   A/B Testing: 
-    Conduct A/B testing for different advertising strategies and implement the most effective ones.
+   - Conduct A/B testing for different advertising strategies and implement the most effective ones.
   Seasonal Adjustments:
-    Analyze seasonal trends and adjust advertising expenditures during peak sales periods.
+   - Analyze seasonal trends and adjust advertising expenditures during peak sales periods.
   Cross-Promotions and Partnerships: 
-    Partner with complementary brands for cross-promotions to increase reach and sales.
+   - Partner with complementary brands for cross-promotions to increase reach and sales.
   Content Quality and Messaging: 
-    Ensure high-quality content and consistent messaging in advertisements to drive engagement and conversions.
+   - Ensure high-quality content and consistent messaging in advertisements to drive engagement and conversions.
 
 ____________________________________________________________________________________________________________________________
  UI of the APP 
-![Screenshot 2024-06-26 160103](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/ebdc18bb-00ca-41af-8a01-fe3290a5f7bf)
-![Screenshot 2024-06-26 160042](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/b7b90021-18bf-4aed-a8f4-da3d13bf070f)
-![Screenshot 2024-06-26 160021](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/53e9aa94-b30a-45df-beb0-c235d54dd838)
-![Screenshot 2024-06-26 160002](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/b191a804-bb63-4d64-8762-f07e8e2e3ef9)
-![Screenshot 2024-06-26 155952](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/a16bc92d-60ef-439d-9248-5068ede118a9)
-![Screenshot 2024-06-26 155942](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/081efe5c-515b-489b-9c9c-c69522ac7116)
-![Screenshot 2024-06-26 155932](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/7ab29f84-4b88-4200-a4d5-c8f5125bae5a)
-![Screenshot 2024-06-26 155921](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/334022b5-2496-49b0-8926-71b3b94eb651)
-![Screenshot 2024-06-26 155854](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/1a34736f-9049-448a-bf33-4c18867c4cb5)
-![Screenshot 2024-06-26 155837](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/52efd3c8-052a-43ee-a6a0-3581b71c9843)
+ ![Screenshot 2024-06-26 155837](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/c2fa159b-98fc-4ec5-b140-27ccbdfbca23)
+ ![Screenshot 2024-06-26 155854](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/3f667960-0244-43bf-853d-6c5ddb450a3d)
+ ![Screenshot 2024-06-26 155921](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/1c3478ce-1427-46ab-b52e-eb13e112d4a8)
+ ![Screenshot 2024-06-26 155932](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/6d54d4aa-11c7-4263-8fe6-bdb17cbb0b12)
+ ![Screenshot 2024-06-26 155942](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/7e615ca2-d180-4df6-ae7b-0ece28875691)
+ ![Screenshot 2024-06-26 155952](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/7e241e20-92ea-403c-98f1-e6764c5ed94b)
+![Screenshot 2024-06-26 160002](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/9977e513-38c1-4957-987c-2364cbb8833e)
+![Screenshot 2024-06-26 160021](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/b095d542-15d4-43f7-a29c-6054eb5b5f83)
+![Screenshot 2024-06-26 160042](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/ac1a2aab-7ef8-441c-9a2d-fa5e419653fb)
+![Screenshot 2024-06-26 160103](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/84b97374-6e64-44a9-882c-02965913b77f)
+
+___________________________________________________________________________________________________________________________
+
+ Thank You 
+
+
+
