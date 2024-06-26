@@ -50,5 +50,15 @@ STEPS :-
 - Provided actionable insights and predictive analytics to optimize advertising expenditures, enhancing marketing strategies and maximizing sales potential.
 _____________________________________________________________________________________________________________________________
 
-USER INTERFACE 
+USER INTERFACE ![Screenshot 2024-06-26 160103](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/6c6d9a3e-ffbe-4194-86b2-1a83dfd03037)
+![Screenshot 2024-06-26 160042](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/50b14eaa-e35f-4fb7-b581-b8099846cd02)
+![Screenshot 2024-06-26 160021](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/5ebeee29-7169-479f-93f2-57ef07a16e0c)
+![Screenshot 2024-06-26 160002](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/d0713a1d-2189-464c-b2f6-04f92b6d2cff)
+![Screenshot 2024-06-26 155952](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/9800356f-9706-4df2-b38d-a29ca570e8e8)
+![Screenshot 2024-06-26 155942](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/0e06a275-c91e-4463-bf44-80c29d152bdd)
+![Screenshot 2024-06-26 155932](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/6bf8ab80-01b2-4385-9796-48cad367d9d8)
+![Screenshot 2024-06-26 155921](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/2ba5c9db-989e-4a7e-a8ac-a9152b0cd664)
+![Screenshot 2024-06-26 155854](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/b4345350-2b6c-4d1f-88f4-62477aeed9c1)
+![Screenshot 2024-06-26 155837](https://github.com/gauravgaikwadit/Afame_Technologies_Internship_project-/assets/99498558/d194c234-6fe0-4e1a-b9ba-0f23fa1aaaf2)
+
 
